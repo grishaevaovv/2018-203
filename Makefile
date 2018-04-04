@@ -15,7 +15,7 @@ SOURCES= \
 	borisovrs.cpp \
 	kuznetsovais.cpp\
 	nefedovms.cpp \
-	grishaevaov.cpp \
+	grishaevaoov.cpp \
 	lab.cpp
 
 OBJECTS=$(SOURCES:.cpp=.o)
